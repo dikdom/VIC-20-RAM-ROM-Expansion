@@ -1,7 +1,7 @@
 # VIC-20-RAM-ROM-Expansion
 Commodore VIC-20 RAM and ROM expansion module
 
-This is a low cost memory expansion module for the Commodore VIC-20 machine. The module is capable of expaning the RAM1,RAM2, RAM3 and BLK1, BLK2,BLK3 and BLK5 memory areas. Altogether 35kB of RAM expansion, manually switchable manner.
+This is a low cost memory expansion module for the Commodore VIC-20 machine. The module is capable of expanding the RAM1, RAM2, RAM3 and BLK1, BLK2, BLK3 and BLK5 memory areas. Altogether 35kB of RAM expansion, manually switchable way.
 
 The module can host an AT28C256 32kB EEPROM chip also, containing 4x 8kB of ROM image mapped to BLK5. BLK5 is selectable: it can be either RAM (has to be enabled on the DIP switch) or can be ROM (DIP switch doesn't play any role).
 
